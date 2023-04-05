@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Angular, StencilJs, JavaScript, TypeScript, HTML5, CSS3**
+- 💬 Ask me about **Angular, StencilJs, JavaScript, TypeScript, HTML5, CSS3, Accessibility**
 
 - 📫 Reach me at **@rahul-rautwar!**
 
