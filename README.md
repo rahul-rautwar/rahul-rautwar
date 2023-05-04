@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Angular, StencilJs, JavaScript, TypeScript, HTML5, CSS3, Accessibility**
 
-- 📫 How to reach me **rahulrautwar@gmail.com**
+- 📫 Reach me at **rahulrautwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
