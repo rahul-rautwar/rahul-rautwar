@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **React, Angular, StencilJs, JavaScript, TypeScript, HTML5, CSS3, Accessibility**
 
-- 📫 Reach me at **rahulrautwar@gmail.com**
+- 📫 Reach me at **rahulrautwar@gmail.com** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> https://rahulrautwar.netlify.app/
 <p align="left">
 </p>
 
