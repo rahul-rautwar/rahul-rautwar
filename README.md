@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **rahulrautwar@gmail.com** 
 
-<h3 align="left">Connect with me:</h3> https://rahulrautwar.netlify.app/
+<h3 align="left">Connect with me: <a href="https://rahulrautwar.netlify.app/" target="_blank"> Portfolio Website </a> </h3>
 <p align="left">
 </p>
 
