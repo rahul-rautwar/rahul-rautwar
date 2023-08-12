@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-rautwar" alt="rahul-rautwar" /></a> </p>
 
-- 💬 Ask me about **React, Angular, StencilJs, JavaScript, TypeScript, Vue, HTML5, CSS3, Bootstrap, Accessibility**
+- 💬 Ask me about **React, Angular, Vue, StencilJs, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Accessibility**
 
 - 📫 Reach me at **rahulrautwar@gmail.com** 
 
